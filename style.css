@@ -18,7 +18,9 @@ body {
     display: flex;
     justify-content: center;
     font-family: 'Rubik', sans-serif;
-
+    background: url("bg_img.jpg") no-repeat;
+    background-size: cover;
+    
 }
 
 .game {
